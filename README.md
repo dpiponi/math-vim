@@ -7,6 +7,5 @@ Use `:Mon` to enable the bindings and `:Moff` to disable them.
 
 Some examples:
 
-|To get|Type|
-|------|----|
-|〈ψ|∂⃡|ϕ〉| \<\psi\|\partial\^<->\|\phi\> |
+1. To get〈ψ|∂⃡|ϕ〉type \<\psi|\partial\^<->|\phi\>
+2. To get ∫∏ᵢdxᵢexp(-½xᵢ²) type \int\prod_idx\_iexp(-\1/2x\_i\^2)
