@@ -15,4 +15,4 @@ Some examples:
 
 Have a look in math.vim for the rest.
 
-Not that the expressions above won't display correctly if you don't have suitable fonts installed.
+Note that the expressions above won't display correctly if you don't have suitable fonts installed.
