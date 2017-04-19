@@ -9,4 +9,4 @@ Some examples:
 
 |To get|Type|
 |------|----|
-|〈ψ|∂⃡|ϕ〉| \<\psi|\partial\^<->|\phi\> |
+|〈ψ|∂⃡|ϕ〉| \<\psi\|\partial\^<->\|\phi\> |
