@@ -14,3 +14,5 @@ Some examples:
 5. To get … → H̃₀(A∩B) → H̃₀(A)⊕H̃₀(B) → H̃₀(X) → 0 type...well you can...but I don't know how to stop github markup interfering.
 
 Have a look in math.vim for the rest.
+
+Not that the expressions above won't display correctly if you don't have suitable fonts installed.
