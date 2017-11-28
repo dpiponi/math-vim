@@ -11,7 +11,7 @@ Some examples:
 2. To get x⃗·y⃗ = ∑ᵢxᵢyᵢ type x\^->\\.y\^-> = \sum\_ix\_iy\_i
 3. To get ∫∏ᵢdxᵢexp(-½xᵢ²) type \int\prod\_idx\_iexp(-\1/2x\_i\^2)
 4. To get ∬dω = ∮ω type \iintd\omega = \oint\omega
-5. To get … → H̃₀(A∩B) → H̃₀(A)⊕H̃₀(B) → H̃₀(X) → 0 type...well you can...but I don't know how to stop github markup interfering.
+5. To get … → H̃₀(A∩B) → H̃₀(A)⊕H̃₀(B) → H̃₀(X) → 0 type \ldots \\-> H\\^\~\\_0(A\capB) \\-> H\\^\~\\_0(A)\oplusH\\^\~\\_0(B) \\-> H\\^\~\\_0(X) \\-> 0
 
 Have a look in math.vim for the rest.
 
