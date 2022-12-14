@@ -571,6 +571,13 @@ let g:math_bindings = [
 \    ["_x", "ₓ"]
 \    ]
 
+function! CompareKey(x, y)
+  return a:x[0] == a:y[0] ? 0 : a:x[0] > a:y[0] ? 1 : -1
+endfunction
+
+let g:math_bindings = sort(g:math_bindings, "CompareKey")
+let g:math_bindings = uniq(g:math_bindings, "CompareKey")
+
 function! Mathon()
     for l in g:math_bindings
         execute "map! " . l[0] . " " . l[1]
